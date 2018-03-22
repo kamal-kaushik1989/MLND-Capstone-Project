@@ -10,6 +10,7 @@ Utility.py         -- Utils with static function to access diffrent algos
 ## Datasets
 The datasets are available as train.csv.zip at:
 https://www.kaggle.com/c/quora-question-pairs/data
+Unzip the data in data folder
 
 ## Dependencies
 numpy, sklearn, pandas, nltk
